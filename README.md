@@ -76,3 +76,16 @@ MiniArcade เป็นเกมที่รวมเกมฮิตไว้ม
 >1. Visual Studio Code
 >2. Dev C/C++
 >3. Xcode
+
+## ภาพโปสเตอร์
+>**[Poster MiniArcade](https://drive.google.com/file/d/1Ep9zejMSPeT9mwiZzeIHs_ajLw4JhylD/view?usp=sharing)**
+
+## วิดิโอสาธิตการเล่น
+>**[MiniArcade]**
+
+## คณะผู้จัดทำ
+| รหัสนักศึกษา | ชื่อและนามสกุล | รับผิดชอบงานในส่วนนี้ |
+| 64070172 | นางสาวนุ่มนวล มาไข่​ | Connect Four , Bingo | 
+| 64070218 | นางสาวการต์รวี พราวพิชญ์พัชร | Pingpong , Fruit Ninja | 
+| 64070251 | นางสาวอภิวิชญ์ ร่มโพธิ์ใหญ่ | Snake | 
+
