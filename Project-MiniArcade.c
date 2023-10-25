@@ -24,7 +24,7 @@ int playAgain();
 int main()
 {
     printf("\e[1;1H\e[2J"); // Clear screen terminal
-    printf("===== Welcome To Nintendo =====\n");
+    printf("===== Welcome To MiniArcade =====\n");
     printf("\nChoose the game you want to play from below.\n");
     printf("|1| Connectfour\n");
     printf("|2| Binggo\n");
@@ -85,7 +85,7 @@ int checkGameValue(int value)
     switch (value)
     {
     case 1:
-        printf("You want to play connectfour, right? (y/n) : ");
+        printf("You want to play Connectfour, right? (y/n) : ");
         scanf(" %s", confirm);
         if (strcmp(confirm, "y") == 0) 
         {
@@ -135,7 +135,7 @@ int checkGameValue(int value)
         }
         break;
     case 5:
-        printf("You want to play Fruitninja, right? (y/n) : ");
+        printf("You want to play Snake, right? (y/n) : ");
         scanf(" %s", confirm);
         if (strcmp(confirm, "y") == 0) 
         {
