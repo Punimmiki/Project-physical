@@ -78,7 +78,7 @@ MiniArcade เป็นเกมที่รวมเกมฮิตไว้ม
 >3. Xcode
 
 ## ภาพโปสเตอร์
->**[Poster MiniArcade](https://drive.google.com/file/d/1Ep9zejMSPeT9mwiZzeIHs_ajLw4JhylD/view?usp=sharing)**
+>**[Poster MiniArcade](https://drive.google.com/file/d/19aOf8XlvZshNuV5xQURWHZ4tdKBIVBd4/view)**
 
 ## วิดิโอสาธิตการเล่น
 >**[MiniArcade]**
