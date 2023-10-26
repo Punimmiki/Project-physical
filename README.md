@@ -81,7 +81,7 @@ MiniArcade เป็นเกมที่รวมเกมฮิตไว้ม
 >**[Poster MiniArcade](https://drive.google.com/file/d/19aOf8XlvZshNuV5xQURWHZ4tdKBIVBd4/view)**
 
 ## วิดิโอสาธิตการเล่น
->**[MiniArcade]**
+>**[MiniArcade](https://drive.google.com/drive/folders/11CzKdGo80bWdX-p8Yok6fLQDFZkkl94S?usp=sharing)**
 
 ## คณะผู้จัดทำ
 | รหัสนักศึกษา | ชื่อและนามสกุล | รับผิดชอบงานในส่วนนี้ |
